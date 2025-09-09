@@ -1,0 +1,1 @@
+AccountEndpoint=https://cosmos-dev-k4vzvmdkaowv4.documents.azure.com:443/;AccountKey=2a6zMCYLNLeRZzURCXVdHVZCZoL4k5R4QU3Lz8qqQgTB6uAtR8pIImn5f9pQ6DhofSbiLVhgqYvoACDbY1234==;
